@@ -1,0 +1,22 @@
+
+.styles1 {
+    display: "flex";
+    flex-direction: "row";
+    color: black;
+    justify-content: center;
+    text-align: center;
+    background: hsla(72, 100%, 47%, 1);
+}
+
+;
+
+.styles2 {
+
+    display: "flex";
+    flex-direction: column;
+    font-size: 30px;
+    list-style: none;
+    align-items: center;
+    text-align: center;
+    text-transform: upperCase;
+}
